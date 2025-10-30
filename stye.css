@@ -1,0 +1,53 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.container {
+
+  margin-top: 5rem;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 40px;
+  width: 100%;
+  
+}
+
+#time
+{
+    margin-top: 5rem;
+    font-size: 35px ;
+}
+#countdown
+{
+    margin-top: 5rem;
+    font-size: 50px;
+}
+#msge
+{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+ 
+}
+
+.bottom
+{
+    margin-top: 3rem ;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
